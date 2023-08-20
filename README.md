@@ -4,7 +4,7 @@
 
 # Currently Focused on: 
 - Pursuing my passion for Computer Science, while working towards earning my bachelor's degree. 
-- Expanding my knowledge by Writing my own Apps, which you can find in my repository.
+- Expanding my knowledge by writing my own Apps, which you can find in my repository.
 - Gaining hands-on experience with full-stack development. 
 
 # What Lies Ahead: 
