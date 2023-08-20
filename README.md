@@ -1,11 +1,13 @@
 # Introduction 
-Who I am: @macleanl#vin
+# Hey there, I'm MacLean Levin! 
 
-Currently Fococused on: 
-- Finishing my associates degree in computer science at Bates Techinical College (graduating in December 2022). 
+Sophomore at College of Charleston, Majoring in Computer Science.
+
+Currently Focused on: 
+- Finishing my bachelors degree in computer science
+- Writing my own Apps which you can find in my repository.
+- Learning from my peers and becoming the best developer I can be. 
+- Gaining experience with full-stack development
 
 Whats Next: 
-- Getting a 12 month long internship at a software company, working hand and hang with a software dev team. Testing the skills i've learned, whilst also learning new tools and skills to help me in the future.
 
-What I'm interested in acomplishing:
-- Becoming a fullstack developer
