@@ -9,7 +9,7 @@
 
 # What Lies Ahead: 
 ## I'm just getting started! So I'm excited to: 
-- Embrace new challenges and conquer new coding horizons.
+- 🚀 Embrace new challenges and conquer new coding horizons.
 - 🌐 Collaborating, learning, and innovating with my peers in the ever-evolving tech landscape.
 - 🔗 Connecting with fellow developers who share the same passion for Development and Innovation.  
 
