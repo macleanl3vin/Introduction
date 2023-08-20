@@ -1,13 +1,12 @@
 # Introduction 
 # Hey there, I'm MacLean Levin! 
+- Thanks for checking out my Github Page. Im currently a Sophomore studying Computer Science at the College of Charleston.
 
-Sophomore at College of Charleston, Majoring in Computer Science.
+# Currently Focused on: 
+- Pursuing my passion for Computer Science, while working towards earning my bachelor's degree. 
+- Writing my own Apps, which you can find in my repository.
+- Gaining hands-on experience with full-stack development. 
 
-Currently Focused on: 
-- Finishing my bachelors degree in computer science
-- Writing my own Apps which you can find in my repository.
-- Learning from my peers and becoming the best developer I can be. 
-- Gaining experience with full-stack development
-
-Whats Next: 
+# What Lies Ahead: 
+- 
 
